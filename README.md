@@ -1,12 +1,3 @@
-# Мое резюме:
--
-
-# Курсы:
-<a>&nbsp;&nbsp;&nbsp;- Яндекс.Практикум: Специалист по Data Science</a> | <a href=''>Сертификат</a>
-
-
-
-
 # Учебные проекты:
 <details open>
   <summary>Список учебных проектов</summary>
@@ -27,24 +18,3 @@
 
 </table>
 </details>
-
-# Мастерская Яндекс
-<details open>
-
-</details>
-
-# Хакатоны
-<details open>
-  <summary>Список хакатонов</summary>
-<table>
-<tr>
-  <td><a href='https://github.com/mr-lexx/GoodsForecast-Hackaton-OSA-2'>GoodsForecast Hackaton (Направление 2).</a></td>
-  <td>Необходимо решить задачу бинарной классификации – определение наличия товаров на полке в интервалах без продаж с оценкой производительности по метрике AUC-ROC. Построить модель
-с использованием оценки вероятности отсутствия товара на полке как один 
-из признаков.</td>
-  <td>Matplotlib, Pandas, Python, Scikit-learn, SQL</td>
-  <td>Лучший результат метрики AUC-ROC на валидационной выборке составила 0.811</td>
-</tr>
-</table>
-</details>
-
