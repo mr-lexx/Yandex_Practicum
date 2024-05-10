@@ -1,6 +1,7 @@
-## Постановка задачи
+# Восстановление золота из руды
 <a href='https://github.com/mr-lexx/Yandex_Practicum/blob/main/Gold%20recovery%20coefficient/Gold.html'>HTML</a> | 
-<a href='https://github.com/mr-lexx/Yandex_Practicum/blob/main/Gold%20recovery%20coefficient/Gold.ipynb'>ipynb</a><br>
+<a href='https://github.com/mr-lexx/Yandex_Practicum/blob/main/Gold%20recovery%20coefficient/Gold.ipynb'>ipynb</a>
+## Постановка задачи
 Подготовить прототип модели машинного обучения для «Цифры». <br><br>Компания разрабатывает решения для эффективной работы промышленных предприятий.<br><br>
 Модель должна предсказать коэффициент восстановления золота из золотосодержащей руды. В вашем распоряжении данные с параметрами добычи и очистки.<br><br>
 Модель поможет оптимизировать производство, чтобы не запускать предприятие с убыточными характеристиками.<br><br>
