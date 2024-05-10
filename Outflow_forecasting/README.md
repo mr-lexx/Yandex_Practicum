@@ -1,4 +1,6 @@
 # Прогнозирования оттока клиентов оператора
+<a href='https://github.com/mr-lexx/Yandex_Practicum/blob/main/Outflow_forecasting/Final_YP.html'>HTML</a> | 
+<a href='https://github.com/mr-lexx/Yandex_Practicum/blob/main/Outflow_forecasting/Final_YP.ipynb'>ipynb</a>
 # Постановка задачи
 Необходимо научиться выделять тех клиентов компании, которые могут покинуть компанию. Найти возможные причины уходы, чтобы иметь возможноть удержать их.
 
