@@ -1,4 +1,7 @@
 # Определение возраста покупателей
+<a href='https://github.com/mr-lexx/Yandex_Practicum/blob/main/Determining_age/TFkeras.html'>HTML</a> | 
+<a href='https://github.com/mr-lexx/Yandex_Practicum/blob/main/Determining_age/TFkeras.ipynb'>ipynb</a>
+
 ## Описание проекта
 Сетевой супермаркет «Хлеб-Соль» внедряет систему компьютерного зрения для обработки фотографий покупателей. Фотофиксация в прикассовой зоне поможет определять возраст клиентов, чтобы:<br>
 - Анализировать покупки и предлагать товары, которые могут заинтересовать покупателей этой возрастной группы;
