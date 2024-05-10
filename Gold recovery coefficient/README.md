@@ -1,4 +1,4 @@
-# Восстановление золота из руды
+# Исследование технологического процесса очистки золота
 <a href='https://github.com/mr-lexx/Yandex_Practicum/blob/main/Gold%20recovery%20coefficient/Gold.html'>HTML</a> | 
 <a href='https://github.com/mr-lexx/Yandex_Practicum/blob/main/Gold%20recovery%20coefficient/Gold.ipynb'>ipynb</a>
 ## Постановка задачи
