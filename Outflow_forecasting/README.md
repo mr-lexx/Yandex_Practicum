@@ -14,7 +14,6 @@
 - **phik**
 - **shap**
 - imblearn.over_sampling.**SMOTE**
-- imblearn.pipeline.**Pipeline**
 - sklearn.compose.**make_column_transformer**
 - sklearn.model_selection.**GridSearchCV**
 - sklearn.**pipeline**
